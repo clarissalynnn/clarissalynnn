@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hello World 👋 
 
 <!--
 **clarissalynnn/clarissalynnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! 👋 I'm **Clarissa Lynn**. Welcome to my little corner of the internet where I get to display my affinity for solving puzzles in the form of coding.
+
+### 👩‍🎓 Education
+2022 double degree graduate from UNSW Sydney with a **Bachelor of Commerce & Bachelor of Information Systems** and recent graduate of Le Wagon's **Full Stack Development Bootcamp**
+
+### 💻 Skills 
+- **Programming Languages:** Ruby, Javascript, HTML/CSS
+- **Frontend Technologies:** Git, Github
+- **Backend Technologies:** Ruby on Rails
+- **Databases:** PostgreSQL, MySQL
+- **Version Control:** Git, Github
+- **Other Tools/Frameworks/Skills:** RESTful APIs, VSCode, Scrum, Kanban
+
+### 📝 Projects 
+- **Dogs R Us** https://github.com/clarissalynnn/dogs-r-us
+
+### 🥰 Interest and Hobbies 
+- 🐶 dog mom to 6 fur babies
+- 📖 avid reader
+- 🏄 beginner surfer
+
+### 🤝 Let's Connect! 
+- **Linkedin**: https://www.linkedin.com/in/clarissalynn/
+- **Github**: https://github.com/clarissalynnn
+
+
+
