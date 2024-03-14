@@ -21,7 +21,7 @@ Hello! 👋 I'm **Clarissa Lynn**. Welcome to my little corner of the internet w
 
 ### 💻 Skills 
 - **Programming Languages:** Ruby, Javascript, HTML/CSS
-- **Frontend Technologies:** Git, Github
+- **Frontend Technologies:** Stimulus JS, Vanilla JS, Bootstrap, Sass
 - **Backend Technologies:** Ruby on Rails
 - **Databases:** PostgreSQL, MySQL
 - **Version Control:** Git, Github
