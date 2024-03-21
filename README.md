@@ -30,6 +30,8 @@ Hello! 👋 I'm **Clarissa Lynn**. Welcome to my little corner of the internet w
 ### 📝 Projects 
 - **Dogs R Us** https://github.com/clarissalynnn/dogs-r-us
 
+![Codewars](https://github.r2v.ch/codewars?user=sleepycity&stroke=#028090)
+
 ### 🥰 Interest and Hobbies 
 - 🐶 dog mom to 6 fur babies
 - 📖 avid reader
